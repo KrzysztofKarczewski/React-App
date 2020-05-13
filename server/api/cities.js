@@ -3,7 +3,7 @@ var Cities = require('../models/cities');
 
 var router = express.Router();
 
-router.get('/', function (req,res){
+router.get('/', function (req, res){
     Cities.retrieveAll(function (err, cities){
         if (err)
           return res.json(err);
@@ -20,3 +20,5 @@ router.post('/', function (req, res){
         return res.json(result);
     });
 });
+
+module.exports = router;

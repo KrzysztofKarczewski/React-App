@@ -13,7 +13,7 @@
 "MyWeather" to aplikacja react-app która korzysta z danych pobranych ze strony openweathermap.org po czym za pośrednictwem bazy danych na postgresie przekazuje je do naszej strony i wyświetla w szybki podgląd aktualnych warunków pogodowych dzięki czemu dużo szybciej możemy znaleść interesujące na informacje na temat aktualnej pogody  
 
 ## Screenshots
-
+![](images/website.png)
 
 ## Technologies
 * JavaScript 

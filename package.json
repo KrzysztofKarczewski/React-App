@@ -29,7 +29,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
     "cookie": "^0.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parser": "^0.1.4",
     "pg": "^8.1.0",
     "reactstrap": "^8.4.1",
